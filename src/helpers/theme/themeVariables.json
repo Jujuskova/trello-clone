@@ -1,0 +1,36 @@
+{
+  "light": {
+    "primary": "#1890ff",
+    "primary-light": "#69c0ff",
+    "secondary": "#faad14",
+    "secondary-light": "#ffd666",
+    "success": "#52c41a",
+    "warning": "#fa8c16",
+    "error": "#f5222d",
+    "divider": "#E5E5E5",
+    "hover": "rgba(0,0,0, .03)",
+    "text-main": "#222222",
+    "text-secondary": "#14213D",
+    "background-application": "#f4f4f4",
+    "font-weight-normal": 500,
+    "font-weight-medium": 600,
+    "font-weight-bold": 700
+  },
+  "dark": {
+    "primary": "#1890ff",
+    "primary-light": "#69c0ff",
+    "secondary": "#faad14",
+    "secondary-light": "#ffd666",
+    "success": "#52c41a",
+    "warning": "#fa8c16",
+    "error": "#f5222d",
+    "divider": "#040404",
+    "hover": "#000000",
+    "text-main": "#FFFFFF",
+    "text-secondary": "#E5E5E5",
+    "background-application": "#222222",
+    "font-weight-normal": 500,
+    "font-weight-medium": 600,
+    "font-weight-bold": 700
+  }
+}

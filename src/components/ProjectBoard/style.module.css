@@ -1,0 +1,10 @@
+.projectBoardContainer {
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+
+  /* background-color: pink; */
+  /* overflow-y: auto;
+  overflow-x: scroll;
+  scrollbar-width: none; */
+}

@@ -1857,6 +1857,13 @@
   resolved "https://registry.yarnpkg.com/@types/range-parser/-/range-parser-1.2.4.tgz#cd667bcfdd025213aafb7ca5915a932590acdcdc"
   integrity sha512-EEhsLsD6UsDM1yFhAvy0Cjr6VwmpMWqFBCb9w07wVugF7w9nfajxLuVmngTIpgS6svCnm6Vaw+MZhoDCKnOfsw==
 
+"@types/react-beautiful-dnd@^13.1.2":
+  version "13.1.2"
+  resolved "https://registry.yarnpkg.com/@types/react-beautiful-dnd/-/react-beautiful-dnd-13.1.2.tgz#510405abb09f493afdfd898bf83995dc6385c130"
+  integrity sha512-+OvPkB8CdE/bGdXKyIhc/Lm2U7UAYCCJgsqmopFmh9gbAudmslkI8eOrPDjg4JhwSE6wytz4a3/wRjKtovHVJg==
+  dependencies:
+    "@types/react" "*"
+
 "@types/react-dom@^17.0.11":
   version "17.0.11"
   resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-17.0.11.tgz#e1eadc3c5e86bdb5f7684e00274ae228e7bcc466"
@@ -3514,6 +3521,11 @@ data-urls@^2.0.0:
     abab "^2.0.3"
     whatwg-mimetype "^2.3.0"
     whatwg-url "^8.0.0"
+
+date-fns@^2.28.0:
+  version "2.28.0"
+  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.28.0.tgz#9570d656f5fc13143e50c975a3b6bbeb46cd08b2"
+  integrity sha512-8d35hViGYx/QH0icHYCeLmsLmMUheMmTyV9Fcm6gvNwdw31yXXH+O85sOBJ+OLnLQMKZowvpKb6FgMIQjcpvQw==
 
 debug@2.6.9, debug@^2.6.0, debug@^2.6.9:
   version "2.6.9"

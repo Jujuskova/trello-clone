@@ -12,6 +12,7 @@
     "text-main": "#222222",
     "text-secondary": "#14213D",
     "background-application": "#f4f4f4",
+    "background-columns": "white",
     "font-weight-normal": 500,
     "font-weight-medium": 600,
     "font-weight-bold": 700
@@ -29,6 +30,7 @@
     "text-main": "#FFFFFF",
     "text-secondary": "#E5E5E5",
     "background-application": "#222222",
+    "background-columns": "black",
     "font-weight-normal": 500,
     "font-weight-medium": 600,
     "font-weight-bold": 700

@@ -22,9 +22,11 @@ function Card({ id, description, date, index }: Props) {
           {...provided.dragHandleProps}
         >
           <p>{description}</p>
-          <div className={s.cardFooter}>
-            <p>{formatDistanceToNow(date, { addSuffix: true })}</p>
-          </div>
+          {date && (
+            <div className={s.cardFooter}>
+              <p>{formatDistanceToNow(new Date(date), { addSuffix: true })}</p>
+            </div>
+          )}
         </div>
       )}
     </Draggable>

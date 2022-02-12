@@ -58,7 +58,9 @@ function Column({
         )}
       </Droppable>
 
-      <CreateForm buttonLabel="Add card" onSubmit={onAddCard} />
+      <div className={s.columnFooter}>
+        <CreateForm buttonLabel="Add card" onSubmit={onAddCard} />
+      </div>
     </div>
   )
 }

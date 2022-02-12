@@ -20,7 +20,8 @@
   margin: 0;
 }
 
-.columnContent {
+.columnContent,
+.columnFooter {
   padding: 8px;
   box-sizing: border-box;
 }
